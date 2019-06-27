@@ -1,0 +1,8 @@
+.site-logo {
+    height: 40%;
+    width: 40%;
+}
+
+h3 + p {
+    color: black;
+}
